@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    margin: 0 auto;
+}
+button{
+    background-color: green;
+    border: 2px solid black;
+    color: white;
+    box-shadow: 4px 4px black;
+    font-size: large;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 10px;
+}
+#box{
+    width: 500px;
+    text-align: left;
+    margin: 0 auto;
+}
